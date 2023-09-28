@@ -1,7 +1,7 @@
 print("Hello Reality")
 
-Year = "Reality"
-print(Year)
+FinalYear = "Reality"
+print(FinalYear)
 
 first_name = 'Zahid'
 last_name = 'Hasan'

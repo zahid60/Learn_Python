@@ -1,3 +1,21 @@
-<h4 align="">Important Note: This project is part of the "Python for Beginners - Learn All the Basics of Python" course on Udemy.</h4>
+# This repository is part of the "Python for Beginners - Learn All the Basics of Python" course on Udemy.
 
-https://www.udemy.com/course/python-for-beginners-learn/
+
+## Course Details
+
+- **Instructor:** Kiran Gavali [IT Engineer]
+- **Udemy Course link:** [Python for Beginners - Learn All the Basics of Python] (https://www.udemy.com/course/python-for-beginners-learn/)
+- **Course duration :**  27 lectures • 5h 12m total length
+
+## What you’ll learn
+
+To get started with this lab, follow these steps:
+
+1. Learn how to use Python 3 the right way
+
+2. Understand complex functions in Python
+
+3. Be able to use Python on a daily basis
+
+4. Create your own basic programs with Python
+

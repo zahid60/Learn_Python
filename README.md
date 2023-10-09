@@ -11,7 +11,7 @@
 
 To get started with this lab, follow these steps:
 
-1. Learn how to use Python 3 the right way
+1. Learn how to use Python  the right way
 
 2. Understand complex functions in Python
 

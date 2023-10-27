@@ -19,3 +19,7 @@ To get started with this lab, follow these steps:
 
 4. Create your own basic programs with Python
 
+
+
+HAPPY CODING! ❤️
+
